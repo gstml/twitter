@@ -2,9 +2,27 @@
     background: transparent;
 }
 
+#header {
+    background-color: #3d3d3d;
+    border-style: none;
+}
+
+#login-signup-link {
+    color: #F58B8F;
+    font-weight: bold;
+}
+
 #react-root > div > div > div > header > div > div > div > div > div.css-1dbjc4n.r-1awozwy.r-jw8lkh.r-e7q0ms > a > div {
     background-color: #F5548F
 ;
+}
+
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div.css-1dbjc4n.r-1jgb5lz.r-1ye8kvj.r-6337vo.r-13qz1uu > div > section > div > div > div > div:nth-child(3) > div > div > article > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-5f2r5o.r-bcqeeo.r-1k3wbuw > div.css-1dbjc4n.r-19i43ro > div.css-1dbjc4n.r-156q2ks > div > div > div > div:nth-child(1) > div > div > span {
+    background: transparent;
+}
+
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div.css-1dbjc4n.r-1jgb5lz.r-1ye8kvj.r-6337vo.r-13qz1uu > div > section > div > div > div > div:nth-child(4) > div > div > article > div.css-1dbjc4n.r-18u37iz.r-thb0q2 > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-5f2r5o.r-bcqeeo > div.css-1dbjc4n.r-19i43ro > div.css-1dbjc4n.r-156q2ks > div > div > div > div:nth-child(1) > div > div > span {
+    background: transparent;
 }
 
 #react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div.css-1dbjc4n.r-6337vo > div > div.css-1dbjc4n.r-1jgb5lz.r-1ye8kvj.r-13qz1uu > div > div > section > div > div > div > div:nth-child(11) > div > div > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wtj0ep > div.css-1dbjc4n.r-k200y.r-1n0xq6e > div > div {
@@ -93,9 +111,6 @@
     background-color: transparent;
 }
 
-#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox span > span {
-    color: #888;
-}
 
 #react-root > div > div > div.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af.r-184en5c > div > div > div > div > div.css-1dbjc4n.r-1habvwh.r-18u37iz.r-1pi2tsx.r-1777fci.r-1xcajam.r-ipm5af.r-g6jmlv > div.css-1dbjc4n.r-t23y2h.r-1wbh5a2.r-rsyp9y.r-1pjcn9w.r-htvplk.r-1udh08x.r-1potc6q > div > div.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1jgb5lz.r-1ye8kvj.r-13qz1uu > div > div > div:nth-child(1) > div > div > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-117bsoe.r-1ozfoo7.r-bcqeeo.r-1bylmt5.r-13tjlyg.r-7qyjyx.r-1ftll1t > div.css-1dbjc4n.r-184en5c > div > div > div > div > div > div > div > div > div.css-901oao.r-hkyrab.r-6koalj.r-16y2uox.r-1qd0xha.r-1b6yd1w.r-16dba41.r-ad9z0x.r-bcqeeo.r-qvutc0 > div > div > div > div > div > div > div > div > span:nth-child(1) > span > span {
     color: #8FAD61;
@@ -144,16 +159,28 @@
     background-color: #F5548F;
 }
 
+a.alternate-context {
+    border-style: none;
+    text-transform: none;
+}
+
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1q3imqu.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-1waj6vr.r-1loqt21.r-1w2pmg.r-1jayybb.r-17bavie.r-15bsvpr.r-o7ynqc.r-6416eg.r-lrvibr {
     background-color: #F5548F;
 }
 
 a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1n1174f.r-1loqt21.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-1ny4l3l.r-1ddef8g.r-qvutc0 {
     font-weight: bold;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 a.css-4rbku5.css-18t94o4.css-901oao.r-1n1174f.r-1loqt21.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-156q2ks.r-bcqeeo.r-1ny4l3l.r-1ddef8g.r-qvutc0 {
     font-size: 12px;
+}
+
+a.forgot {
+    color: #F58B8F;
+    font-weight: bold;
 }
 
 article.css-1dbjc4n.r-1loqt21.r-1udh08x.r-utggzx.r-1wqkr8a {
@@ -183,8 +210,17 @@ body {
     font-family: 'Google Sans';
 }
 
+button.submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium {
+    background-color: #F58B8F;
+    border-style: none;
+}
+
 div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div .r-1fneopy {
     background: #404040;
+}
+
+div.clearfix.mobile.has-sms {
+    background-color: transparent;
 }
 
 div.css-18t94o4.css-1dbjc4n.r-1awozwy.r-urgr8i.r-sdzlij.r-y3da5r.r-18u37iz.r-1777fci.r-1vsu8ta.r-6dt33c.r-1j3t67a.r-1ea30sd.r-eafdt9.r-1b8bd59.r-6czh2s {
@@ -198,6 +234,11 @@ div.css-18t94o4.css-1dbjc4n.r-1q3imqu.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-16y
 
 div.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1777fci.r-1mi0q7o.r-utggzx.r-m611by {
     background-color: #EFEFEF;
+}
+
+div.css-1dbjc4n.r-18u37iz.r-16y2uox.r-1wbh5a2.r-thb0q2 {
+    margin-left: 1em;
+    margin-right: 1;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h3ijdo.r-1777fci.r-1jgb5lz.r-sb58tz.r-utggzx.r-13qz1uu {
@@ -287,12 +328,6 @@ div.css-901oao.css-bfa6kz.r-jwli3a.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqee
     font-weight: bold;
 }
 
-div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-18u37iz.r-16y2uox.r-1qd0xha.r-a023e6.r-vw2c0b.r-1777fci.r-eljoum.r-dnmrzs.r-bcqeeo.r-q4m81j.r-qvutc0 {
-    background-color: #F58B8F;
-    border-radius: 50px;
-    color: #ffffff;
-}
-
 div.css-901oao.r-1awozwy.r-urgr8i.r-11mg6pl.r-sdzlij.r-1phboty.r-rs99b7.r-1tjplnt.r-jwli3a.r-6koalj.r-1q142lx.r-1qd0xha.r-1gkfh8e.r-16dba41.r-50lct3.r-1777fci.r-ad9z0x.r-1b8eohn.r-u8s1d.r-kquydp.r-1m4drjs.r-3s2u2q.r-qvutc0 {
     background-color: #F5548F;
     border-style: none;
@@ -324,6 +359,27 @@ div.css-901oao.r-hkyrab.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-glunga.
     font-size: 13px;
 }
 
+div.global-nav-inner {
+    background-color: #303030;
+}
+
+div.page-canvas {
+    background-color: #e0e0e0;
+    border-radius: 20px;
+}
+
+h2.action-information {
+    color: #919191;
+}
+
+h2.current-user a {
+    background-color: #3d3d3d;
+}
+
+h2.current-user a img {
+    border-style: none;
+}
+
 header.css-1dbjc4n.r-obd0qt.r-16y2uox.r-1g40b8q {
     background-color: #2E2E2E ;
 }
@@ -332,12 +388,29 @@ html {
     background-color: #2e2e2e;
 }
 
+input.js-username-field.email-input.js-initial-focus {
+    border-radius: 10px;
+}
+
 input.r-30o5oe.r-1niwhzg.r-17gur6a.r-1yadl64.r-deolkf.r-homxoj.r-poiln3.r-7cikom.r-1ny4l3l.r-1sp51qo.r-1lrr6ok.r-1dz5y72.r-1ttztb7.r-13qz1uu {
     color: #d6d6d6;
 }
 
+label.t1-label.remember {
+    color: #6e6e6e;
+}
+
 main.css-1dbjc4n.r-1habvwh.r-16y2uox.r-1wbh5a2 {
     background-color: #474747;
+}
+
+p.sms-helper a {
+    color: #F58B8F;
+    font-weight: bold;
+}
+
+span.Icon.Icon--bird.Icon--large {
+    color: #F58B8F;
 }
 
 span.css-901oao.css-16my406.css-bfa6kz.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-qvutc0 {
@@ -346,6 +419,11 @@ span.css-901oao.css-16my406.css-bfa6kz.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-qvutc0 {
 
 span.css-901oao.css-16my406.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-qvutc0 {
     line-height: 25px;
+    background-color: transparent;
+}
+
+span.name {
+    color: #9c9c9c;
 }
 
 svg.r-13gxpu9.r-4qtqp9.r-yyyyoo.r-16y2uox.r-1q142lx.r-8kz0gk.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr {
@@ -391,5 +469,10 @@ svg.r-jwli3a.r-4qtqp9.r-yyyyoo.r-1q142lx.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-
 
 svg.r-jwli3a.r-4qtqp9.r-yyyyoo.r-1q142lx.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr g path {
     color: #fff9e3;
+}
+
+div.r-42olwf.r-1f0042m.r-1phboty.r-d045u9.r-6koalj.r-eqz5dr {
+    background-color: #ebebeb;
+    margin-right: 10px;
 }
 

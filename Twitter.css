@@ -13,8 +13,7 @@
 }
 
 #react-root > div > div > div > header > div > div > div > div > div.css-1dbjc4n.r-1awozwy.r-jw8lkh.r-e7q0ms > a > div {
-    background-color: #F5548F
-;
+    background-color: #F58B8F;
 }
 
 #react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div.css-1dbjc4n.r-1jgb5lz.r-1ye8kvj.r-6337vo.r-13qz1uu > div > section > div > div > div > div:nth-child(3) > div > div > article > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-5f2r5o.r-bcqeeo.r-1k3wbuw > div.css-1dbjc4n.r-19i43ro > div.css-1dbjc4n.r-156q2ks > div > div > div > div:nth-child(1) > div > div > span {
@@ -110,7 +109,6 @@
 #react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div > div:nth-child(4) > div > aside > div:nth-child(2) > div:nth-child(2) > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div > div.css-1dbjc4n.r-k200y.r-1n0xq6e > div > div > span, #react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div > div:nth-child(4) > div > aside > div:nth-child(2) > div:nth-child(3) > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div > div.css-1dbjc4n.r-k200y.r-1n0xq6e > div > div > span, #react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div.css-1dbjc4n.r-aqfbo4.r-14lw9ot.r-my5ep6.r-rull8r.r-qklmqi.r-gtdqiz.r-ipm5af.r-1g40b8q > div > div > div > div > div > div.css-1dbjc4n.r-obd0qt.r-1pz39u2.r-1777fci.r-1joea0r.r-1vsu8ta.r-18qmn74 > div > div > div > div > div > span {
     background-color: transparent;
 }
-
 
 #react-root > div > div > div.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af.r-184en5c > div > div > div > div > div.css-1dbjc4n.r-1habvwh.r-18u37iz.r-1pi2tsx.r-1777fci.r-1xcajam.r-ipm5af.r-g6jmlv > div.css-1dbjc4n.r-t23y2h.r-1wbh5a2.r-rsyp9y.r-1pjcn9w.r-htvplk.r-1udh08x.r-1potc6q > div > div.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1jgb5lz.r-1ye8kvj.r-13qz1uu > div > div > div:nth-child(1) > div > div > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-117bsoe.r-1ozfoo7.r-bcqeeo.r-1bylmt5.r-13tjlyg.r-7qyjyx.r-1ftll1t > div.css-1dbjc4n.r-184en5c > div > div > div > div > div > div > div > div > div.css-901oao.r-hkyrab.r-6koalj.r-16y2uox.r-1qd0xha.r-1b6yd1w.r-16dba41.r-ad9z0x.r-bcqeeo.r-qvutc0 > div > div > div > div > div > div > div > div > span:nth-child(1) > span > span {
     color: #8FAD61;
@@ -474,5 +472,10 @@ svg.r-jwli3a.r-4qtqp9.r-yyyyoo.r-1q142lx.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-
 div.r-42olwf.r-1f0042m.r-1phboty.r-d045u9.r-6koalj.r-eqz5dr {
     background-color: #ebebeb;
     margin-right: 10px;
+}
+
+div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-18u37iz.r-16y2uox.r-1qd0xha.r-a023e6.r-vw2c0b.r-1777fci.r-eljoum.r-dnmrzs.r-bcqeeo.r-q4m81j.r-qvutc0 {
+    background-color: #F58B8F;
+    border-radius: 50px;
 }
 

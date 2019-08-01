@@ -134,27 +134,13 @@
     background: #e8e8e8;
 }
 
-.r-1n1174f {
-    border-radius: 20px;
-    color: #F5548F;
-    padding-bottom: 0.25em;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    padding-top: 0.25em;
-}
-
-.r-1n1174f:hover {
-    background-color: #F5548F;
-    color: #FFF;
-    text-decoration: none;
-}
-
 .r-hkyrab {
     color: #666;
 }
 
 .r-urgr8i {
     background-color: #F5548F;
+    opacity: 1
 }
 
 a.alternate-context {
@@ -168,8 +154,6 @@ a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1q3imqu.r-42olwf.r-sdzlij.r-1phboty.r-rs9
 
 a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1n1174f.r-1loqt21.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-1ny4l3l.r-1ddef8g.r-qvutc0 {
     font-weight: bold;
-    padding-left: 0;
-    padding-right: 0;
 }
 
 a.css-4rbku5.css-18t94o4.css-901oao.r-1n1174f.r-1loqt21.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-156q2ks.r-bcqeeo.r-1ny4l3l.r-1ddef8g.r-qvutc0 {
@@ -214,7 +198,7 @@ button.submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium {
 }
 
 div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div .r-1fneopy {
-    background: #404040;
+    background: #5d5d5d;
 }
 
 div.clearfix.mobile.has-sms {
@@ -246,6 +230,7 @@ div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h3ijdo.r-1777fci.r-1jgb5lz.r-sb58tz.r-utg
 div.css-1dbjc4n.r-1awozwy.r-aqfbo4.r-14lw9ot.r-18u37iz.r-1h3ijdo.r-15d164r.r-1vsu8ta.r-1xcajam.r-ipm5af.r-1ovo9ad.r-136ojw6 {
     background-color: #474747;
     padding-top: 3em;
+    margin-bottom: 3em;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-d0pm55.r-1bymd8e.r-13qz1uu {
@@ -311,7 +296,11 @@ div.css-1dbjc4n.r-ku1wi2.r-utggzx.r-m611by {
 
 div.css-1dbjc4n.r-my5ep6.r-rull8r.r-qklmqi.r-1wtj0ep.r-1sp51qo {
     border-style: none;
-    padding-top: 2em;
+    margin-top: 0.5em;
+}
+
+div.css-1dbjc4n.r-urgr8i.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-1w2pmg.r-1n0xq6e.r-1vuscfd.r-1dhvaqw.r-icoktb.r-1fneopy.r-o7ynqc.r-6416eg.r-lrvibr {
+    margin-right: 10px;
 }
 
 div.css-1dbjc4n.r-urgr8i.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-1w2pmg.r-1vsu8ta.r-aj3cln.r-icoktb.r-1fneopy.r-o7ynqc.r-6416eg.r-lrvibr {
@@ -324,6 +313,10 @@ div.css-1dbjc4n.r-urgr8i.r-sdzlij.r-1yadl64.r-1ozsyd3.r-u8s1d.r-1gg5ah6.r-1ld3bg
 
 div.css-901oao.css-bfa6kz.r-jwli3a.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-qvutc0 {
     font-weight: bold;
+}
+
+div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-18u37iz.r-16y2uox.r-1qd0xha.r-a023e6.r-vw2c0b.r-1777fci.r-eljoum.r-dnmrzs.r-bcqeeo.r-q4m81j.r-qvutc0 {
+    border-radius: 50px;
 }
 
 div.css-901oao.r-1awozwy.r-urgr8i.r-11mg6pl.r-sdzlij.r-1phboty.r-rs99b7.r-1tjplnt.r-jwli3a.r-6koalj.r-1q142lx.r-1qd0xha.r-1gkfh8e.r-16dba41.r-50lct3.r-1777fci.r-ad9z0x.r-1b8eohn.r-u8s1d.r-kquydp.r-1m4drjs.r-3s2u2q.r-qvutc0 {
@@ -364,6 +357,11 @@ div.global-nav-inner {
 div.page-canvas {
     background-color: #e0e0e0;
     border-radius: 20px;
+}
+
+div.r-42olwf.r-1f0042m.r-1phboty.r-d045u9.r-6koalj.r-eqz5dr {
+    background-color: #ebebeb;
+    margin-right: 10px;
 }
 
 h2.action-information {
@@ -411,13 +409,9 @@ span.Icon.Icon--bird.Icon--large {
     color: #F58B8F;
 }
 
-span.css-901oao.css-16my406.css-bfa6kz.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-qvutc0 {
-    background-color: #F58B8F;
-}
-
 span.css-901oao.css-16my406.r-1qd0xha.r-ad9z0x.r-bcqeeo.r-qvutc0 {
-    line-height: 25px;
     background-color: transparent;
+    line-height: 25px;
 }
 
 span.name {
@@ -469,13 +463,31 @@ svg.r-jwli3a.r-4qtqp9.r-yyyyoo.r-1q142lx.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-
     color: #fff9e3;
 }
 
-div.r-42olwf.r-1f0042m.r-1phboty.r-d045u9.r-6koalj.r-eqz5dr {
-    background-color: #ebebeb;
-    margin-right: 10px;
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-t23y2h.r-1phboty.r-rs99b7.r-15d164r.r-1udh08x {
+    margin-top: 2em;
 }
 
-div.css-901oao.r-1awozwy.r-jwli3a.r-6koalj.r-18u37iz.r-16y2uox.r-1qd0xha.r-a023e6.r-vw2c0b.r-1777fci.r-eljoum.r-dnmrzs.r-bcqeeo.r-q4m81j.r-qvutc0 {
-    background-color: #F58B8F;
-    border-radius: 50px;
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-1ljd8xs.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-13qz1uu.r-184en5c > div > div > div:nth-child(2) > div > section > div > div > div > div:nth-child(1) > div > article > div:nth-child(3) > div.css-18t94o4.css-901oao.r-1n1174f.r-6koalj.r-1w6e6rj.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-jw8lkh.r-bcqeeo.r-qvutc0 > span {
+    font-size: 13px;
 }
 
+.r-1n1174f {
+    color: #999;
+}
+
+.r-1n1174f:hover {
+    color: #F5548F;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div.css-1dbjc4n.r-1awozwy.r-aqfbo4.r-14lw9ot.r-18u37iz.r-1h3ijdo.r-15d164r.r-1vsu8ta.r-1xcajam.r-ipm5af.r-1ovo9ad.r-136ojw6 > div > div > div > form > div.css-1dbjc4n.r-1wbh5a2 > div > div > div.css-901oao.r-hkyrab.r-6koalj.r-16y2uox.r-1qd0xha.r-a023e6.r-16dba41.r-ad9z0x.r-bcqeeo.r-qvutc0 > input::placeholder {
+    color: #888;
+}
+
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-t23y2h.r-1phboty.r-rs99b7.r-15d164r.r-1udh08x > aside > div:nth-child(2) > div.css-18t94o4.css-1dbjc4n.r-my5ep6.r-rull8r.r-qklmqi.r-1loqt21.r-utggzx.r-9qu9m4.r-o7ynqc.r-6416eg > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wtj0ep > div.css-1dbjc4n.r-k200y.r-1n0xq6e > div > div > span > span,
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-gtdqiz.r-1ovo9ad > div > div > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-t23y2h.r-1phboty.r-rs99b7.r-15d164r.r-1udh08x > aside > div:nth-child(2) > div:nth-child(2) > div > div.css-1dbjc4n.r-1iusvr4.r-46vdb2.r-1777fci.r-5f2r5o.r-bcqeeo > div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wtj0ep > div.css-1dbjc4n.r-k200y.r-1n0xq6e > div > div > span > span
+
+{color: #dedede;}
+
+#react-root > div > div > div > main > div > div.css-1dbjc4n.r-aqfbo4.r-1niwhzg.r-16y2uox > div > div.css-1dbjc4n.r-aqfbo4.r-1joea0r.r-zso239.r-1ovo9ad > div > div.css-1dbjc4n.r-1xcajam.r-ipm5af.r-1ovo9ad > div > div > div > div.css-1dbjc4n.r-14lw9ot.r-1tlfku8.r-t23y2h.r-1phboty.r-rs99b7.r-15d164r.r-1udh08x {margin-top: 2.5em}
